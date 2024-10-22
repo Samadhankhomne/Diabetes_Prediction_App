@@ -1,2 +1,2 @@
 # Diabetes_Prediction_App
-This project involves building a machine learning model to predict the risk of diabetes based on user input.
+This project involves building a machine learning model to predict the risk of diabetes based on user input. It integrates various classification models, such as Logistic Regression, Decision Tree, Random Forest, and XGBoost, and uses Streamlit to create an interactive web application. The app allows users to input health parameters and receive predictions on diabetes risk. Models are saved and loaded using pickle, enabling efficient prediction without retraining. The project includes data preprocessing, feature scaling, model evaluation, and a user-friendly interface for real-time prediction.
